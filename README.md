@@ -32,3 +32,4 @@ print("Rows",len(df.axes[1]))
 ![Ans1](./Ans1.png)
 
 ## RESULT:
+The contents from a csv file has been successfully read.
